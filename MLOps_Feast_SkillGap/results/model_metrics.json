@@ -1,0 +1,76 @@
+{
+  "accuracy": 0.8003,
+  "macro_f1": 0.6099000595420674,
+  "classification_report": {
+    "High": {
+      "precision": 0.9139255180408636,
+      "recall": 0.848741757502355,
+      "f1-score": 0.8801283840357242,
+      "support": 7431.0
+    },
+    "Low": {
+      "precision": 0.23322683706070288,
+      "recall": 0.553030303030303,
+      "f1-score": 0.32808988764044944,
+      "support": 132.0
+    },
+    "Medium": {
+      "precision": 0.5825556353194544,
+      "recall": 0.6659827656955273,
+      "f1-score": 0.6214819069500287,
+      "support": 2437.0
+    },
+    "accuracy": 0.8003,
+    "macro avg": {
+      "precision": 0.5765693301403404,
+      "recall": 0.6892516087427284,
+      "f1-score": 0.6099000595420674,
+      "support": 10000.0
+    },
+    "weighted avg": {
+      "precision": 0.8241854550327181,
+      "recall": 0.8003,
+      "f1-score": 0.8098093294175226,
+      "support": 10000.0
+    }
+  },
+  "top_features": [
+    {
+      "feature": "Overall_Skill_Coverage",
+      "importance": 0.10902094395984058
+    },
+    {
+      "feature": "CGPA",
+      "importance": 0.10147363018901784
+    },
+    {
+      "feature": "Technical_Skill_Score",
+      "importance": 0.09905179625202329
+    },
+    {
+      "feature": "Resume_Score",
+      "importance": 0.09712675236937689
+    },
+    {
+      "feature": "Skill_Gap_Score",
+      "importance": 0.09011071980395904
+    },
+    {
+      "feature": "Backlogs",
+      "importance": 0.060691478047165626
+    },
+    {
+      "feature": "DSA_Core_Score",
+      "importance": 0.05289457060616886
+    },
+    {
+      "feature": "Practical_Exposure_Score",
+      "importance": 0.04853680550825405
+    }
+  ],
+  "label_classes": [
+    "High",
+    "Low",
+    "Medium"
+  ]
+}

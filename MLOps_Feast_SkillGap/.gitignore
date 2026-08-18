@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+*.egg-info/
+.DS_Store
+
+# Feast-generated local stores (regenerate with `feast apply` + materialize.py)
+feature_repo/data/registry.db
+feature_repo/data/online_store.db
+data/processed/training_dataset.parquet

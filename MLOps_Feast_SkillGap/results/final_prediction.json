@@ -1,0 +1,33 @@
+{
+  "student_id": "CSE000003",
+  "online_features": {
+    "Programming_Languages_Score": 14.289999961853027,
+    "Web_Dev_Score": 9.260000228881836,
+    "DSA_Core_Score": 2.4700000286102295,
+    "AI_ML_Score": 24.959999084472656,
+    "Cloud_DevOps_Score": 10.0,
+    "Databases_Score": 25.670000076293945,
+    "Tools_Practices_Score": 22.989999771118164,
+    "Core_CS_Security_Score": 24.06999969482422,
+    "Soft_Skills_Score": 23.31999969482422,
+    "Technical_Skill_Score": 16.709999084472656,
+    "Soft_Skill_Score": 23.31999969482422,
+    "Overall_Skill_Coverage": 17.709999084472656,
+    "Skill_Gap_Score": 82.29000091552734,
+    "Practical_Exposure_Score": 54.20000076293945,
+    "HackerRank_Badge_Score": 2,
+    "Academic_Performance_Score": 66.58000183105469,
+    "CGPA": 6.820000171661377,
+    "Backlogs": 2,
+    "LeetCode_Problems_Solved": 612,
+    "Resume_Score": 75,
+    "Placement_Readiness_Score": 96,
+    "Employability_Index": 62
+  },
+  "predicted_skill_gap_level": "High",
+  "class_probabilities": {
+    "High": 0.6509110031478356,
+    "Low": 0.0,
+    "Medium": 0.3490889968521642
+  }
+}
