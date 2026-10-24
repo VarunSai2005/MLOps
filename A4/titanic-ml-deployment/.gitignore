@@ -1,0 +1,41 @@
+# Python environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache and tooling
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.code-workspace
+
+# Build and packaging output
+build/
+dist/
+*.egg-info/
+
+# Local configuration and logs
+.env
+.env.*
+*.log
+
+# Generated model and inference artifacts
+*.joblib
+*.pkl
+*.pickle
+predictions*.csv
+
+# Operating-system files
+.DS_Store
+Thumbs.db
